@@ -1,0 +1,311 @@
+Speaker A (00:00:00 -- 00:00:35):
+It. Most of my peers I see are always optimizing for the short term. Everyone's thinking six months, one year, like, what is the right thing to do? And I think as an all, culturally, we are thinking long term. If a customer comes to us, do I make Rs3000 in one month? Or I'm okay to make Rs300 a year over ten years? If the customer is going to survive ten years, I'd rather make Rs300 a month over ten years, because this customer can potentially bring in a lot of business to us in the future versus that 3000 rupee customer who will come and go and was not really incrementally, add any value to the business.
+
+Speaker B (00:00:50 -- 00:01:41):
+My guest today needs no introduction. Nitin Kamath has been recognized as one of the most influential entrepreneurs of the last decade. Yes, he's been associated with startups, but he's an established business, a winner of numerous business awards, primarily because he's built a robust, profitable business without any external capital. And his journey, along with his brother, has been like a sort of a great journey of entrepreneurship, a product which came and disrupted the industry that he was working in. And on this episode of the Bloom podcast, we would love to hear more about Nitin's story, his motivations, his ability to sort of persevere through this decade plus journey and how did he build this massive business without outside capital? And most importantly, for all the young listeners out there and entrepreneurs who are aspiring to be someone like Anitan karmath.
+
+Speaker A (00:01:41 -- 00:01:43):
+What lessons can he impart?
+
+Speaker B (00:01:43 -- 00:01:54):
+And eventually, he's a great example of the theme of this year's podcast, which is the power of compounding. And you've seen that impact as he rose up the ranks and became the.
+
+Speaker A (00:01:54 -- 00:01:56):
+Leading brokerage in the country.
+
+Speaker B (00:01:56 -- 00:02:01):
+So welcome again, Nitin. Lovely to have you on the podcast and thanks for taking the time.
+
+Speaker A (00:02:01 -- 00:02:04):
+No, a pleasure. Thanks for having me here.
+
+Speaker B (00:02:04 -- 00:02:54):
+So let's get going. I think the first segment, I want to cover a little bit of the backstory. I know it's well documented, there are many versions of it that are already there in the public domain. But while the story is documented and you've bootstrapped this into anybody's guess on how valuable it is on any given day, but yes, it's clearly a multibillion dollar company. It's taken over a decade. But what would be most interesting is, I think, when you look at the venture lens today, we keep questioning these young founders. How does this become a billion dollar business? How does this become a unicorn, all of these fancy terms that the venture industry uses. But what was the trigger for you to a start the business? And what is the second trigger when you know, oh my God, this is going to become big and I want to pursue this? Were you content with whatever the size of the business? I will be happy doing?
+
+Speaker A (00:02:54 -- 00:03:40):
+Yes. I'm just curious to know. So the thing is, I started trading the market in the late ninety s. A lot of people think of zeroDA as something that started in 2010, which is 13 years old, but in my head it's actually 23, 24 years old. Because the day I started trading the market is really when the business began, in a sense. It was not called Zaroda. Zaroda is just another avatar of what I was doing from then. Got it. So what happened was around 2007 eight, I was very active in the online world by then. I used to run really large Yahoo messenger groups Orko groups on trading and markets and et cetera. So Nikhil had joined me by around 2006 seven, and he is a better trader than I am. Until then, we were sitting and trading the markets.
+
+Speaker B (00:03:40 -- 00:03:41):
+Right.
+
+Speaker A (00:03:41 -- 00:03:51):
+And the bet was really why two people should sit and trade. If Nikhil is doing a good job at it, maybe he should just increase the quantity. I mean, it's as simple as that, right?
+
+Speaker B (00:03:51 -- 00:03:53):
+Interesting. Yeah, it's the right perspective.
+
+Speaker A (00:03:53 -- 00:04:36):
+Yes. And I, anyways, always had this like key to sorts to go and talk about markets online. So the bet was that why not try to attempt to be a broker for very active traders like us, who were paying a lot of fees and were getting services which weren't very transparent of sorts. It was nothing like what Zaroda is today. I mean, it was never meant to be. It was really meant to be like a small boutique kind of firm. And the plan was just to attract that small, niche bunch of traders who are very active on online trading communities. That's how zeroDA started. I don't think I thought of it as a real business, as in until maybe around 2015.
+
+Speaker B (00:04:36 -- 00:04:42):
+Oh, wow, that late 15. Okay. I had met you by then. I think around that time is when we first met.
+
+Speaker A (00:04:43 -- 00:05:35):
+The thing is, Kelash, who heads our tech, I mean, he's a co founder in the business. He doesn't like to be called a co founder because he joined us in 2013, but he's as much as a co founder as I am in the business. So he joined us in 2013 and the journey from vendor led product to like a fintech firm started after he joined us. 2015 is when we put out our in house products. Because I was already questioning on your pricing and your transparency can't really be a mote of sort. Right? I think someone would easily catch up on that. That's correct. And yeah, in 2015 when we launched our in house products was when the realization kind of hit that. But now you also have a better product with everything else, which means now we can really build on this. And coincidentally, we are at that right place, right time. Because this was also when we could now start using Aadhaar for online onboarding. Correct.
+
+Speaker B (00:05:35 -- 00:05:36):
+Changed everything. Yeah.
+
+Speaker A (00:05:36 -- 00:05:58):
+The speed of onboarding because until then, financial services come. The only way to grow was to put more branches, right? And I had by then decided that I'm not going to go raise VC money. So I knew that without doing that, you can't really go set up thousands of branches. But that whole aadhaar then I think our ambitions grew quite a bit in 2015. Until then we were not really sure if it's a real business or not.
+
+Speaker B (00:05:59 -- 00:06:25):
+Since we're on that .2 branch questions, one I was going to ask you anyway. But curious to know, was it the combination of what Kelash was doing, your sort of ambition to make this accessible to others via your products and other which created the massive spike in 1617 and then made this like a really imaginably large business? When did you think this can become a very, very large business?
+
+Speaker A (00:06:25 -- 00:07:09):
+The thing is, we get a lot of credit for expanding the markets and I usually tell that I'm not that deluded to believe in, that we were just there in the greatest bull market of India and with the right products, right initiatives, right team, et cetera. So all these three together and an underlying bull market which is attracting people to the markets, right? I mean, a good product won't you need people to be making money to be able to do it? So, yeah, all of this together. But the real scale started coming in as and when the bull market picked up, right, as in Understood 2020, we were at a million customers. And then from we have grown ten X from there in like two years. So it's that last bit of rally was really powerful.
+
+Speaker B (00:07:10 -- 00:07:54):
+I think there's two lessons in I know we're coming to power of compounding and this is the third segment, but there's two interesting sort of tidbits we shouldn't forget. One is people talk about a lot of entrepreneurs will say there is an element of luck that plays in a lot of entrepreneurs fail because of timing or the lack of and the ones who succeed, you get timing right, they say, oh, you got timing right. But what I think they're ignoring is that journey all the way till 2015, right? So if you're persistent chasing that singular problem and you've surrounded yourself with the right people to build, as you said, the right products, the timing will present itself eventually and which is essentially seems like the story here that I'm hearing from you around zero, though.
+
+Speaker A (00:07:54 -- 00:08:02):
+Yeah, I mean, just to add one more point, I think if you want to survive, if you want to get lucky, you need to just survive long enough to get lucky as well. Right?
+
+Speaker B (00:08:02 -- 00:09:55):
+Yeah. That's a common one as well, that the grittiest entrepreneurs say, but I know you're not taking as much credit, but exactly what entrepreneurs seem to forget that they want a certain urgency. I know you tweeted about it recently and there are multiple misaligned incentives. VCs want urgency. Entrepreneurs get caught up in that urgency. You're trying to drive value artificially much ahead of its time. Whether that's market sizing, whether it's running through money, whether it's hiring without any purpose. You're a great example of building within your means for a very long time and then when the market actually takes off, you've already become self sustainable. So you're able to take advantage of that. Now you said it and therefore I have to branch into that question. You said you decided that you won't take VC money. To my credit as a VC, I think like an early stage startup generally benefits from the network effects of what it means to be a VC funded company, right. Insights from all investors might not be great, but you have a sounding board, you have an advisory board, you have some access to advisors, you have more capital when you need it. Potentially all of these are all ranges of probability. I get that. But why did you and Nikhil say one is of course we are self sustainable. I get that. But I know for a fact, and I've heard it in the market that many people wanted to come and offer you growth capital, right. And say we want a piece of this great business and you can do secondaries, you can do take money and grow faster. And yourself said you went from where you were in 1516 to what scale you've hit in 22. Theoretically. Theoretically you could have grown faster to that mark by having that capital. You might say that's not true, it would have only happened at the same pace. And maybe that is the right answer. But prior to that, why did you switch off from VCs and win every sort of bootstrap plus every entrepreneurship award without the VC?
+
+Speaker A (00:09:55 -- 00:11:04):
+Yeah, so the thing is 2013 is when really the first time I got to interact with VCs and the startup community. I don't think it was like this conversation around CAC Mao Dao I couldn't get that you should get a customer who will not pay to use your services in the sense it didn't sit well with me as an entrepreneur. And I think there's also a realization then that if you get into this game you cannot stop at one round in the sense it then becomes the deepest pocket wins kind of a race. That realization was probably there right at the start. The other thing was in our business because I'd done this for so long, I'd also realized that you didn't need I mean, people don't look at say Asharu Khan dancing and decide to open a trading account. Doesn't work like that. I mean, I kind of knew that our business has to be through word of mouth because usually people how they decide to trade and invest in the market is there's a friend you're having a coffee? Then he said I invested, I made some money and then he says, Where are you trading? You need that?
+
+Speaker B (00:11:04 -- 00:11:10):
+Yeah. It's a layers of trust have to be built before you actually buy a financial product of any kind.
+
+Speaker A (00:11:10 -- 00:11:25):
+We worked on that significantly, right. As in I've been maybe answering customer queries on our multitude of forums just to build that trust. Even today, I spent at least an hour answering our customers as me because that builds a lot of trust. I get market intelligence, all of that.
+
+Speaker B (00:11:25 -- 00:11:26):
+Amazing.
+
+Speaker A (00:11:26 -- 00:12:11):
+So, yeah, so 20, 13, 14 is when we realized but then thankfully we were profitable in the sense we were making enough. I don't know the other thing I think culturally, right, I think me and Kelash are more like this than Nikhil, but I think we're not very ambitious. There was never this whole idea, there's no chase of saying I want to be a unicorn or I want to be number one. I was supremely passionate about what we are doing. And the idea was that you get up every day and do get better at something and you'll get to wherever you have to get to in life. I love my music, I love my sports. I mean, I have a life outside business and I don't want to be chasing something which I can never reach in life because then you're always constantly getting up and chasing something.
+
+Speaker B (00:12:11 -- 00:13:15):
+Very high point hierarchy reached very early in life. It's fantastic to hear. No, I think it matters also, as you said, surrounding yourself, having a Kailash and having these co pilots, it's very measured and tempered. Then I actually had a couple of questions around what he's brought to the firm, more from what the firm stands for. And I'm curious on how was that like your core DNA at Nitin's level is what I'm keen on. So you're lauded for product innovation and UIUX. And yes, the bar was low. One can argue the Indian brokerage industry had not evolved dramatically on tech, but it looks like a world class product where you can compete with anyone. I know you haven't gone overseas. What guides you on that front? Are there any tips, any philosophy that you followed, any books or people that inspired you to do it? And it must have been there even before Kailash came. And how have both of you taken this to the next level? Because I think that's what Zero does known.
+
+Speaker A (00:13:15 -- 00:13:49):
+Yeah, I mean, even today when someone comes, even within the team, when someone comes and asks what is our motives of business, I say just the philosophy. The way we think of customer is very hard for a competition. Think of it like that because I was a trader for 1012 years before zeroDA started. And I think every single thing that we are doing as a business today is considering me as that person. For example, just to have a no spam policy, right? As in we haven't once sent an email or a push notification, asking someone to buy yourself, knowing very well that this can give you revenue or whatever.
+
+Speaker B (00:13:49 -- 00:13:52):
+You wouldn't have liked it if you were on the other side. And you're saying that?
+
+Speaker A (00:13:52 -- 00:14:56):
+Yeah, absolutely. And also, I think the problem that I see, I think where we have done okay as compared to rest, is most of my peers I see are always optimizing for the short term. Everyone's thinking six months, one year, what is the right thing to do? And I think as an or culturally, we are thinking long term. If a customer comes to us, do I make Rs3000 in one month? Or I'm okay to make Rs300 a year over ten years? Right. If the customer is going to survive ten years, I'd rather make Rs300 a month over ten years. Because this customer can potentially bring in a lot of business to us in the future versus a 3000 rupee customer who will come and go and was not really incrementally add any value to the business. Some of these kind of philosophies is this, I think, is what has kept the business together in the sense a lot of us on the core team, I think we think of it like that. And it's also very, like I said, one of the reasons, because the theme is compounding, I think something that doesn't get spoken about much is that the people's skills also compound over time.
+
+Speaker B (00:14:56 -- 00:14:56):
+Right.
+
+Speaker A (00:14:56 -- 00:15:40):
+Your team skill sets as well. What I've seen is at least whatever little I've seen, I've realized that usually when someone joins you, the sweet spot when he actually starts contributing to the business is one and a half to two years when he gets the overall context of the business and he or she gets the overall context. And typically that's the time when people are quitting companies. Right? Yeah. I think the core team, everyone has been together for at least five or six years, at least, so which means their understanding of the business, their skill sets, everything has compounded quite a bit over time. And the reason they're staying together is not for the money. A lot of people think you can keep money. Guys who come for money go for money. Right. There will always be mutual give. Yeah.
+
+Speaker B (00:15:40 -- 00:15:43):
+You always miss a few. You can't catch all of them in the filters.
+
+Speaker A (00:15:43 -- 00:16:11):
+Yeah. So I think in the core team, I mean, the top hundred in the team, which I think they're here for the philosophies, which we work, the way we treat our customer, the way we are using our success to give forward, the way we represent Father Broking ecosystem there, and the way I say, even what I say on social media this is not me saying it. It's really the top team saying it. A lot of these things are something that we've discussed internally, and I'm usually the guy who gets to be the face of that.
+
+Speaker B (00:16:12 -- 00:16:51):
+By the way, what you just said, Nathan. I was listening patiently because at some point when we make this public, I would want my team to listen to this. We debate this a lot, and as a venture firm, we ironically have no choice but to be built in this fashion, because with due respect to everybody who builds for 2030 years, a venture firm doesn't have a starting point unless you can plan for 2030 years. So it's the core of the business model, and we struggle with this. We get young, aspiring kids who have a wrong sense of that gratification coming much earlier, and we try to tell them that it's going to take you two, three years to figure out whether you can compound. Forget about the fact that you can. You will compound.
+
+Speaker A (00:16:51 -- 00:16:51):
+Right.
+
+Speaker B (00:16:51 -- 00:17:33):
+Because it's a learned skill set. It's an apprenticeship, at least in a lot of companies, seven out of ten roles are functional in that sense. They know what they have to come and do in venture, you have to learn the trade on the fly. And I know we run very different businesses, but fantastic learning. So thanks for sharing. And this becomes a moot point because you've already covered it, but my team's research says that out of Kailash's team of 33 people, only two have, like, churned out in the last decade that he's been here. How often do you think this kind of philosophy and culture thing has to be rearticulated to remind people why they're here? And what is a great tip for me or my founders on how best they should do that?
+
+Speaker A (00:17:33 -- 00:18:24):
+No, I think it's again, right. I think when you're hurried to grow fast, I think really, in terms of culture and philosophy, getting a team together, the time to do it is when you're hiring because people don't change that's correct. If you're hiring and you hire someone who's not culturally fitting into your, you can then put whatever time you want and it won't fit. So I think what we've done right, and even on the business side, I think I've done right after Keller joining us, because I also thought more people solve problems until I realized they don't. So I think know, if I were to think about his hiring, it's just while hiring itself, the first question he usually asks is, show me your hobby project. You can't be a serious programmer who doesn't have a hobby project. Right. I mean, that itself filters out so many people, it's not even funny. Right. The quality of the hobby project. Correct.
+
+Speaker B (00:18:25 -- 00:18:26):
+Sounds like a lovely question.
+
+Speaker A (00:18:26 -- 00:18:55):
+Yeah. I think the tech team actually are a bunch of hackers. Almost everything at the Rota is open source. Everything that we build for ourselves is also open source. Like listmark. We build this utility to send out emails. We sent, I don't know, like 100 million emails a month. We spend, I think, 200, $300 on it. So we build this ourselves and now we are open source. It and the team loves the fact that we open source.
+
+Speaker B (00:18:55 -- 00:19:03):
+Yeah, I think to see a product out in so many millions of hands is a delight in itself. Right. And I think incredible product and tech culture.
+
+Speaker A (00:19:03 -- 00:19:30):
+If there was one advice in terms of I think it's just about hiring. Right. Also, the second thing I think we've done is when I've seen this happen, when founders find someone exciting, they tend to oversell to get him on board. I actually undersell. Like last year, someone came for a job and I said, you're at the market top and are you sure you want to join a broker? And I showed him 2008 and I said, you know what? This was a market top. And this is what happened to the broking industry.
+
+Speaker B (00:19:30 -- 00:19:32):
+A small history lesson to scare them.
+
+Speaker A (00:19:32 -- 00:19:35):
+Off, in a sense. You don't want them to come with.
+
+Speaker B (00:19:35 -- 00:19:37):
+Wrong expectations for the wrong reasons.
+
+Speaker A (00:19:37 -- 00:19:58):
+And it's almost like VCs as well. You're getting a VC on board. I tell the founders you don't want to be overselling because then you are setting the wrong expectations. Right. I think we are constantly internally being quite transparent about every single thing that I mean, every single risk out there for the business. And yeah, I think all of these things together has probably helped us in.
+
+Speaker B (00:19:58 -- 00:20:16):
+Some way to keep the no absolutely amazing or culture. And it shows, right? It shows. And it's very difficult to look behind the hood, under the hood, behind the scenes and see what is the magic. And I know you're giving us glimpses of it. It's not easy to recreate how many of the tips you give, but thanks for sharing. Very transparently.
+
+Speaker A (00:20:16 -- 00:20:18):
+I think these are great lessons which.
+
+Speaker B (00:20:18 -- 00:20:50):
+Last segment on your company building and the storyline is I'll put it bluntly from the outside, it looks you've almost built like the perfect picture book Cinderella story, right? And maybe for the audience, you want to highlight one or two things where you made these sort of short term to long term compromises or people compromise. Any examples of that? And then course corrected. And how did that further amplify this learning that you never make short term compromises versus long term?
+
+Speaker A (00:20:51 -- 00:21:40):
+So when we started the business, 2010, there were some 25 lakh rupees left on the table. We had like around one and a half, 1.4 crores to start with. One crow was a deposit to get a membership on the exchange. And there were some 30, 40 lakhs left. Nikhil was trading on it. Nikhil's trading profit was like a VC capital of sort. So there was very little money left. So in a business of broking, you need two things, right? One is you need a trading platform where you can place your orders and you need a back office platform where your trades are processed. At the end of the day, you kind of build a ledger send out contract notes, et cetera. The first vendor we went to for a back office, we went to the person who gave it for free because we didn't have too much money. And the whole idea was as soon as if we become bigger, we'll be able to quickly shift.
+
+Speaker B (00:21:40 -- 00:21:43):
+Understood classic startup problems.
+
+Speaker A (00:21:43 -- 00:22:25):
+It took us ten years to shift because that one thing, as we became bigger, the problem just kept becoming bigger. You just kept postponing that move out. And because back office is not customer facing, right? So as a startup, I think you're always doing whatever is customer facing first. You're always prioritizing that. And then I think we started working our own in house back office in 20, 17, 18. It took us like two, three years to get over it and it slowed us significantly. A lot of good things that we could have done for our customers, we couldn't do it because of this technical debt of sorts that got built very early on in our journey.
+
+Speaker B (00:22:25 -- 00:23:55):
+A great example. In fact, it reminds me there's going to be one more guest on the show, manish of Team Leads Sabarbal. And I remember first meeting them in 2007, eight, about seven, eight years before their IPO, and they were racing like they had crazy numbers and they actually went flat for two years. They were doing exactly what you said. They had had so much tech sort of debt that they had created, and they realized that their business, much like yours, you're trading stocks, they're trading people, right? And so they have a very thin margin. So they had to optimize the hell out of that margin that they were otherwise being given. And ironically, they deal with human assets and you deal with stocks, but basically they went through the same thing. And I'll probably try to bring that parallel out in his life as well. Because you're unafraid to express your views. India gets to hear a lot about your views relative to most other public market proponents, other than the ones on TV channels, via Twitter, et cetera. So just want to touch a little bit upon your understanding of the Indian consumer, right? So you said a bunch of things like you grew ten X in the last two, three years. India exploded. What has changed? What did you think when you started servicing the customer? What were the insights that informed you on what you were building? And how has that changed in ten years? Or is fundamentally still the same with more people wanting to do this? So it'll be interesting for audiences to hear how that has evolved.
+
+Speaker A (00:23:55 -- 00:24:18):
+No, I think I've been in the stock markets for the last 25 years and it's actually nothing much has changed, to be very honest. I mean, of course the platforms have changed, but people's, behavior, people, the way people deal with money is exactly the same, which is greed is really the enabler, right? As in whatever is asset class that is giving you the max return is where you want to be in that's right. And everyone wants to make money quickly.
+
+Speaker B (00:24:19 -- 00:24:21):
+The market offers all of that.
+
+Speaker A (00:24:21 -- 00:25:58):
+Yes. The biggest change really, I think from before Zaroda and to now is one is mobile. I don't understand our customer very well. We were just sitting and the other day I was trying to figure how are people day trading on a mobile app? I couldn't figure this because when I used to sit and trade or even say Nikhil, if you look at it, he's got like four computers, four monitors and he's got how do people day trade on a mobile app? But we have like 60% of our day traders actually day trading on a mobile app. So I don't get that consumer, I don't get this consumer who can actively use mobile for all of this. I don't use my mobile outside as Spotify or an Audible or something like that. Maybe I've kind of grown too old for that. And the other one is the power of social media in all good ways, bad ways. But it's incredible because the whole idea of Zerodha itself started because of me having this Yahoo missions group orcut communities and there was this forum called Traders G in India which was very active. Yeah, I remember we were very active on this forum. But today it's just like so many micro influencers and all of these people enabling in some good ways and a lot of bad ways to get people to the market. So I think that is really the two things which has changed drastically over the last 1020 years in terms of how do people decide to trade, buy and sell, which is through these influencers and how they do it using a mobile app which is, I don't think, well summarized.
+
+Speaker B (00:25:59 -- 00:26:09):
+I think you're basically saying access. And this media explosion has allowed for lot more participation than sitting behind a computer desk and not knowing where to get information or access.
+
+Speaker A (00:26:09 -- 00:26:10):
+Right.
+
+Speaker B (00:26:10 -- 00:26:36):
+Seems to explain everything. But what I like about it is fundamentally the human behavior on that front hasn't necessarily changed. You've just tapped into a much larger market. Which brings me to I know you also dialogue much like we do in the industry, trying to keep the industry sort of self regulated, informed, but also grow the pie of Indian money that actually comes into sort of these kind.
+
+Speaker A (00:26:36 -- 00:26:38):
+Of markets, stocks, public markets.
+
+Speaker B (00:26:38 -- 00:27:07):
+That percentage has, of course, crept up, but we have way, way lower than what you would have in, let's say, western markets if you had to switch that entire question, not looking at the past, but looking to the future and say, if zeroDA is still around in 10, 15, 20 years, building away for these customers, would it be more of the same? Or do you anticipate more demographic shifts or tailwinds that are in your.
+
+Speaker A (00:27:07 -- 00:27:08):
+Favor.
+
+Speaker B (00:27:08 -- 00:27:09):
+What do you think zeroDA has to.
+
+Speaker A (00:27:09 -- 00:29:15):
+Adapt to to be able to capture that market share and that customer? See, the thing is, the business kind of has evolved over the last 13 years. It started off saying, I want to reduce cost and be transparent. Then it became about platforms. Then it became, we started this rain matter and started saying, we can't do everything ourselves. We need to collaborate. We also have varsity and education. Now, the question we've been asking over the last one, two years is, what's the point of existing if our customers don't do better with their money because they use us? And just kind of niche platforms isn't enough. You give a guy a Ferrari who doesn't know how to drive. Yeah. So we are trying now to kind of find ways to help customer do better. So, in terms of if you were to ask me, Nathan, why do I get up every day to do what I'm doing? I think the way we think about it is that, as Zaroda, we today are in a position to be able to change people's behavior, outlook towards money. I think India needs to take a lot more risk. So there's so much money lying in fixed deposit, gold, real estate, which isn't really adding to the economy. Right. At least a small portion of it, at least from the top, one, two, 3% of this country to be backing entrepreneurs. And we think with our success, we can make some of that happen. And maybe one of the things I've been hoping for is that there is some regulation that allows Indians to kind of more actively participate, at least the accredited investors, et cetera, to participate actively in the private markets as well. Because today, the problem over the last five to ten years has been that most of the wealth creation is really happening in the private space. And the ones who are IPOed haven't really created a lot of wealth for the Indian retail, because the only way to get the retail investor interested and then the participation to grow over long term is to create wealth for people. Right. And that has to absolutely.
+
+Speaker B (00:29:16 -- 00:31:15):
+So I know we've discussed this briefly as fellow investors, not just on cap tables, but trying to move the industry forward. So thanks for airing those views. As you know, I have an office Bear, a position at IVCA, which is the industry body, and I try to push the regulators to think in those terms and allocate risk accordingly. Right. You can't treat an H I as, like you said, like the Ferrari example, if you use we're not trying to sell the Ferrari to the two wheeler rider, and therefore one sees a certain as capable of driving a Ferrari. Let that industry be, let that fuel, as you said, private investment into Indian entrepreneurship, which is dramatically better, by the way. The good news is it's grown like ten x in the last five years from what we have as AIF data. But you're absolutely right, we should be like, pounding the tables and growing that another ten x 20 X from here. So that's the good news. Now, similarly, on that same vein, and it's commendable that you're trying to educate more investors to know what risks they're taking. I think I saw two strains, and maybe I'm wrong, so I would love your views. Two strains of what you're trying to do for what necessarily Zero they can't achieve for every person's savings. You're trying to make these people wealthy, but you can't solve for every one of their problems. And I know Nicole is doing something on the wealth side, but there's still small segments, and I know we are co investors in a few companies like Smallcase and and so do you actually see two parts to your investing strategy? So one is, I know you invest out of a family office vehicle. Do you see that as a strategy to defray this risk that Zerodha can't solve for every investing problem of a customer and anything that eases that and helps the same customer be better placed in investing, creating wealth, I want to be able to back such an entrepreneur. Is that where it's coming from or is there any other motivation?
+
+Speaker A (00:31:16 -- 00:32:38):
+Because everyone in the business has a stake in Zero there, and then we invest through a vehicle, which is like so everyone gets participated in it. So the way we have looked at private investments till now with the aimat of fintech has been, we need to help Indians do better with money and we can't solve for all the problems, and we need to partner with folks to do it and partner and collaborate. So we haven't really gone into anything expecting any monetary returns. I think, thankfully, the financial success we have had has given us the liberty to kind of have this outlook towards our investments. Right. But going forward, I think given how much the business is generating cash and how we don't really require that cash for our own business right. It's not that you're going to get up and want to do random things as a business. I think going forward, we are planning to kind of have more skin in the game of sorts. I think if I had to give a right analogy, I think turn this into like a Berkshire Hathaway kind of a thing. If your core business is generating cash and you go use that cash and kind of start partnering businesses and kind of take a very similar kind of a model of sorts.
+
+Speaker B (00:32:39 -- 00:32:46):
+Lovely to hear that vision. And since you brought that up, I have to ask the question, if you're going to build a Berkshire, then you have to have give us the chance.
+
+Speaker A (00:32:46 -- 00:32:47):
+Of owning a share.
+
+Speaker B (00:32:52 -- 00:33:02):
+Is that built into the ambition at someday you think you'll have a team and an ambition ready to build this into maybe India's attempt at the first perpetual sort of investment vehicle.
+
+Speaker A (00:33:03 -- 00:34:09):
+Yeah. So the thing is, one of the reasons we have not thought of IPO at zero is because our business is not very predictable. The revenues are in sync with what happens to the Nifty. And I think at least when you're IPOing, there has to be some predictability. If you were to ask me, Nathan, how much you'll do next year? Have no answer because my immediate response will be, can you tell me what Nifty will do next year? Then I'll tell you what my revenues can be. So there is no predictability today. But say if you were to start investing in these companies and there's some predictability built and all our fortunes are not really linked to the Nifty or Sensei, maybe then is when we would actually think of saying, maybe we should, because that's the right vehicle. It has to be a listed entity for this to really be a Berkshire. It can't be private. So hopefully, if there is some success through some of these investments, eventually it'll probably list this because also, I think it's almost borderline hypocritical to be the largest broker in the country and not say that I won't.
+
+Speaker B (00:34:10 -- 00:34:42):
+So it's great to hear. I think a lot of people have always wondered whether they can be a small shareholder and aspirationally you've given them hope to look forward to that in a few years from now. So that's great. So I think we already sort of, in the last two questions, quietly segued into what you've achieved in terms of power of compounding, which is the theme for the podcast series this year, and what it may look like when you start compounding zero for the next few decades at least.
+
+Speaker A (00:34:42 -- 00:34:43):
+Right?
+
+Speaker B (00:34:45 -- 00:34:48):
+It is already a great segue. And I have a bunch of questions.
+
+Speaker A (00:34:48 -- 00:34:49):
+Before we wrap this.
+
+Speaker B (00:34:49 -- 00:35:20):
+So the first of those is, as much as you are a trader and as much as you've built the firm on that strong product linkage with your like for trading, do you also invest in public stocks? And if there are out of curiosity, given that your own wealth compounds in your own organization, are there examples of public stocks that you can share where wealth has compounded faster than your own efforts, or where there have been great examples of this? And how have you judged that from the outside?
+
+Speaker A (00:35:20 -- 00:35:30):
+No, I mean all the public market investment actually, Nikhil handles it and he's been quite special in terms of his performance over the last 13 years.
+
+Speaker B (00:35:31 -- 00:35:34):
+I've heard yes, I've heard good things about it.
+
+Speaker A (00:35:34 -- 00:36:27):
+Like I said, one of the reasons we didn't have to go out and raise venture capital right at the start was because he was sitting and trading the markets and generating returns for us to be able to take that stance, because I think the business on its own started generating cash only in 2013. So the first two, three years, really we survived out of this trading profits. So in a way, if you were to think of it, that capital that he brought in because of trading, it is almost invaluable for us that has probably outperformed everything else. But during the last few years we are holding a bunch of stocks, we have a lot of exposure to banks over the last two, three years. We also sit on a lot of gold because we are already overexposed to the equity markets. So we have quite a bit of sovereign gold bonds in our portfolio.
+
+Speaker B (00:36:28 -- 00:37:11):
+Understood, that's your investment mix. But if I bring it back to how you've compounded value for your current set of shareholders, which is also your team, et cetera, any one example where you've judged and seen that be successful in the public markets, you're saying, let's leave that answer to Nikhil. But let me then switch gears and come to the startups that you back. And I know you do a lot of that. Right? And what indicators are you looking from these founders? I know it's very similar to how we are judging, but how do you know these people are likely to be winners on that power of compounding game? Of course we're going to get some wrong for various reasons.
+
+Speaker A (00:37:11 -- 00:37:12):
+Right.
+
+Speaker B (00:37:12 -- 00:37:20):
+But how do you differentiate compounding and non compounding if there is a startup founder who pitches to you if you don't have a view on the public one?
+
+Speaker A (00:37:20 -- 00:37:43):
+Necessarily, no, I mean, see, on the private space, we have stuck around our core competency. So it's around finance and investing and trading and stock market. Sorry, all the private investments in this space. Mostly I think we have invested, I think 400, 500 crores till now and it's across 80, 90 startups. Oh wow.
+
+Speaker B (00:37:43 -- 00:37:53):
+I didn't realize that it becomes that big. It's more than our portfolio now. It's great that you're doing this. This is what we love to see, right? More people enabling more startups.
+
+Speaker A (00:37:53 -- 00:39:08):
+But yeah, if someone comes and talks like for example, Small Case really was our first investment, right? So when the founders came, they understood the market, they had a product which was solving for a real market problem. They seemed like decent guys and we knew that we can bring some strategic value to them. So in finance, it's actually been quite easy because we know that almost every investment that we do more than the value that we bring in money capital is we bring a lot more value in terms of just having the experience having done this, be it around regulations, be it around quickly being able to give an opportunity for someone who's building a consumer facing app. Because the way we have done this for a lot of like even for Small Case, for example, when they first their product, we showcase them to our customers as if it's our own product. So in a way we kind of help them to what would have otherwise taken maybe two, three years to get that's right. We probably accelerated for them. So we bring a lot of value. So what happens in fintech, especially around saving and trading, is anytime someone out there is starting something, we automatically get the deal flow. Correct?
+
+Speaker B (00:39:08 -- 00:39:37):
+You've done this before. Now you've established a track record of actually enabling this for many startups and they're all accessible. I think you've backed some great founders who are also in some sense I know you're not saying it overtly, but I think you've backed founders who also think open source in that sense. Right? They're giving back, they're helping other founders and that's how I've seen flow from the small case founders, et cetera. And if it's happening for me, I'm sure it's happening tenfold for you, given how focused you are in what you chase.
+
+Speaker A (00:39:37 -- 00:40:09):
+And then it kind of extended into health. I'm kind of passionate about health, fitness, nutrition. I think Indians should play more sports so the instincts don't play as well here as in finance. So that's why I think we're still kind of taking smaller checks, et cetera. We're trying to figure it out before we start committing larger capital. And the final theme is really around climate change and this whole creation of livelihood. So we set up a foundation.
+
+Speaker B (00:40:09 -- 00:40:25):
+Love to hear what motivated that. And I know it's a personal passion and all of them seem to be driven by personal passion but please, maybe spend a few minutes on what you're trying to actually impact on climate change with this huge sort of corpus that you've set aside.
+
+Speaker A (00:40:25 -- 00:42:18):
+The thing is, I think it all started with actually Kailash questioning internally, saying that success, the financial success also brings in some kind of an obligation to kind of help in some way the society. Right? Those kind of questions started, he started asking and then we started saying in a world which is as unequal as it is today, if people who have gotten wealthy luckily in life should do more to give forward and more to kind of otherwise it'll just keep concentrating, right? That's correct. So we started like that and then we anyways, through rain matter were kind of giving forward like supporting entrepreneurs. We said the two problem statements that we were associated with very closely was one around climate change and two around this whole creation of livelihood. Like even within our business, what we realized what we were doing is as and when we are becoming more and more efficient as a business, we are in a way causing job losses indirectly to the industry. As in today, Azeroda is just 1100 people and if a zeroDA was not as efficient as it is today, we probably would have needed 11,000 people as in we would have probably needed ten x team size. Yeah, because these kind of questions were getting asked internally we said no let's pick up these two themes and start supporting anyone who's trying to solve for this problem. So even for profits or nonprofits, we've set up the foundation. We've allocated 1000 crores to start this. And we are helping nonprofits and for profits working on this in this space. And the way we have structured this is any upside from the for profits goes back to the foundation and for the team as well. The fact that the business is using the success to give forward is also something that I think keeps the team together as well.
+
+Speaker B (00:42:18 -- 00:42:26):
+So I think there was an important lesson there. There are a lot of founders, people who create wealth, who say that they.
+
+Speaker A (00:42:26 -- 00:42:27):
+Want to give back.
+
+Speaker B (00:42:27 -- 00:44:23):
+And I heard that in the first part of your answer. But also reading between the lines, what my takeaway is. You want even that giving to compound in some sense, right? And chasing things that truly, truly appeal to what you want to see out in the world. All the things that you said about your team feeling, falling in love with it, they having passion to solve for these problems, will allow for that giving also to then compound. And so we keep going back to agents or principles of change and what impact we can create, whether it's a VC, whether it is Nitin and zeroDA, whether it is this foundation, the motivation to compound, and it's fantastic that you're doing that. Across the core business, the investing side, we've seen in seven years, you've gone from zero to 80 investments. And now on the foundation and the green side as well, you've managed to use media very effectively for personal branding, for zero, more importantly, for the right kind of messaging, right. What you want to send out there into the world. How important do you think it is for startup founders in general? I know everybody can't do it. It's not their cup of tea. But also people train like we're all not founders or CEOs by definition, right. We train ourselves to get there because it's part of the responsibility. So do you think A, how do you get started or any tips and how do you compound? And I think you've done that as well, very well. It's evident, right, when you look at team, you look at your product and your customer, you look at revenues in the business and profits, and you look at your initiatives outside of the core business. It's central to your DNA, I feel. Nathan so at least that's my read. And so I'm summarizing that for the audience and then moving to maybe some more lighter questions around how should founders think about compounding their media presence?
+
+Speaker A (00:44:23 -- 00:45:25):
+Yeah, I blew up my trading account in 2001 and I joined a call center. I worked in a call center for three, four years between 2001 to 2004, five. And even before the call center and during the call center days, I was also doing this multilevel marketing and trying to which is essentially sell. Like, if I were to look back at my journey, I think I have learned most of my life skills then because I think as a founder, as a CEO, this whole storytelling, at least for consumer startups, I think is a very important aspect of the business as well. Right. To be able to build a brand for the business. It's very hard to build a brand without the founder storytelling. It right. And like the earlier thing that we spoke about in 2013 14, one of the realization also was that if we were to raise venture capital, then it'll probably affect the kind of stories I can say.
+
+Speaker B (00:45:25 -- 00:45:26):
+Right.
+
+Speaker A (00:45:27 -- 00:46:54):
+I think as a business, the way I think about it is that you need to be able to say and do things, which is very hard for your competition to say and do. Social media today is so powerful. I was actually late in the game until 2019. I wasn't active on Twitter or LinkedIn or whatever. I actually got onto this on 2000 because until then I used to do everything through Zaroda itself. So everything that you saw, you had a platform. I used to manage Zaroda's handles. I used to talk as Zaroda on different forums. There was no Nitin Kamath as such. And I used to spend a lot of time speaking to journalists, I don't know how many India Darshans. I've done just meeting journalists across the country to get some try to build that story for Zaroda in the press. And I think I kind of realized that the power of the traditional press is dwening in, I think, 2017 18. And also social media stopped the reach for the business handles, right. As in, you have to advertise to get reach. So that's when I actually got onto Twitter in 2019, I think, when I started talking and see, the problem with social media is it also gives you dopamine hits right, a lot. So you need to be conscious about that as well. So I actually have three people in our office who have the license to kill anything that I want to say, in a sense, before I want to say something, I send it to them and unless they approve it, it doesn't go through.
+
+Speaker B (00:46:54 -- 00:46:55):
+It's a great system.
+
+Speaker A (00:46:55 -- 00:47:38):
+Yeah. Because otherwise I know I can just get carried away and say something when I don't have to say anything. Right. Usually if I have to say something, I'll write it down, I'll think about it, I'll sleep over it, and if I feel it's still worth saying it, then I say it. Right. And so I don't just fire on social media of sorts. And there is a lot of work that goes behind it. It's not a random tweet or a random post that I've thought about it quite a bit. And because you can say some of these things that others find it hard to say, given their position as entrepreneurs. Also, I think it helps build an audience for you as well.
+
+Speaker B (00:47:38 -- 00:48:18):
+Yeah, it's a tough one for people who've already taken the money, but I think the other tips are very valuable. In fact, interestingly, there's one other parallel in our lives. I did that for Bloom Ventures till 1415. I handled the handle all the way till then, and I didn't have a personal handle till 15 or so. I didn't even have a handle. Forget about tweeting. But my account was created much after Bloom. So I believe in everything that you've said. So thanks for saying it out loud. You're building towards that IPO, you understand public markets and what public markets want. A parting advice for founders. I think there's going to be a deluge of companies wanting to go public.
+
+Speaker A (00:48:18 -- 00:48:18):
+Right.
+
+Speaker B (00:48:18 -- 00:48:38):
+This idea forward story from last week, there are other small cap, mid cap sort of success stories, by the way, at the personal front, I want to harp on the success stories and show them as role models. But knowing what you know, if you were the investor in their IPOs, what advice would you give these founders?
+
+Speaker A (00:48:38 -- 00:48:57):
+Well, I know I think the problem is a lot of founders are primed for that right. Is to look at IPO as an exit. But it isn't for the founder. It's actually the beginning of a new journey, and it's actually a lot getting retail investors who can't take as much risk. Retail investor is really the lowest in the food cycle in terms of risk, right. Risk appetite.
+
+Speaker B (00:48:57 -- 00:48:58):
+That's correct.
+
+Speaker A (00:48:58 -- 00:50:05):
+So your obligation only goes up and not down. And I think that mental framework has to change. People have to think of retail investor, the money that a retail investor is putting in your company as an obligation and not think of it as some kind of an exit where you're trying to optimize for that exit and not think about the investor who's coming in. And also one other thing that I've seen is that as a private company, overselling sometimes is an incentive. There's an incentive to oversell as a founder, but as a public company, I think it's always like under promise, over deliver is the right way to do it, because if you oversell, it's going to come back to haunt you. Right. And you need to be mentally in a right framework to be able to continue running a business in the long run, as in, you don't want volatility. And I think one of the ways to kill volatility and just to increase the ODS of you being rational as much of the future as possible is to, I think, to constantly keep under, promising underselling versus vice versa. I think these two things are this.
+
+Speaker B (00:50:05 -- 00:51:24):
+Example that you gave of underselling and outperforming, I've seen in action the most. I don't follow public markets much, but I've been always intrigued by demarc because we look at a lot of players in that segment. We had invested in milkbasket Dunzo. So I got intrigued. And Neville is of Damanijito is not visible, but Neville is that front and he does a fantastic job of this. He takes two, 3 hours every quarter, talk to analysts, walk them through the journey, keeps it very humble, keeps it very real, and then just keeps outperforming right. And it's an amazing story. And I'm sure Zerodha will be a public story of the same nature someday. We know the man behind it thinks this way. And so a big, big thanks for sort of giving us that philosophy that guides you and what to expect the day we can all be public shareholders in Zero. Thanks again. Nitin, thank you for your time today. And it was incredible conversation. I enjoy these because I get to interact with some of the best founders in the country, love to track these decade plus, two decade plus journeys. I'm sure you've inspired a lot of our listeners, motivated them to think long term, build sustainable businesses, see what compounding can do. And that's the message we want to send out this season. So thank you once again.

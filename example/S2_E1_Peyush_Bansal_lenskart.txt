@@ -1,0 +1,278 @@
+Speaker A (00:00:00 -- 00:00:41):
+It. So I think if we can go back to the first principles, that kind of innocent and thinking where you are not clouded by what is cool and sexy and what will get you the next round of funding and the buzzwords and now the buzword is AI. So I think you need to cut all of that and say what's my customer saying. And the second thing I would say is people, right? 1112 years back, I think I was was listening to something from Sanjeev Bikchandani and he said that for people to build something large, they need to share right? And they need to get the right people. So Lenscard would not be what it is if there were not people who were joining the workforce.
+
+Speaker B (00:00:56 -- 00:01:38):
+One thing to spot an opportunity, but quite another to build it and scale it. Everybody comes up with great ideas, but to build over a decade, see it to its grand end, state of execution, not easy. And today we have the pleasure of interviewing one such person, piyush Bansal, the founder and CEO of Lenscart, India's largest eyewear company. Piyush has been building this for over a decade. It's been instrumental in driving Lenscart's growth and success. In this interview, we'll talk about how his conviction kept building as a founder. And then we'll touch upon a little bit of his investing avatar and finally what he thinks about the theme of this podcast, which is the power of compounding. Hi Piyush, welcome to the show. Thank you for the time.
+
+Speaker A (00:01:38 -- 00:01:41):
+Hi Karthik, thanks for having me. Glad to be here.
+
+Speaker B (00:01:41 -- 00:02:28):
+Piyush, the first section, I'm going to go back to a little bit of the history of Lenscart. It has been well documented. Now, you're a mega large company, so a lot of people have gone in and understood that history. You've been building it for what, over 13 years? I think you started with online, moved into offline, moving into international. I think what will be of interest to listeners is what convinced you to do two things. I'm old enough in the ecosystem to know that when you started, at least there was a bag cart, watch cart, lens cart, and then a decision went to focus on one of them. So what drove that decision? And I'm sure that decision was based on the fact this could become really large. If you can walk us a little bit through that history and that experience.
+
+Speaker A (00:02:28 -- 00:04:30):
+In the first few years, I was somebody who never really had dreams of being an entrepreneur. And I know I meet a lot of students now who are probably working or planning to do an MBA, and they have plans on becoming an entrepreneur. At least I didn't have any of those when I was working at Microsoft. The only thing that I used to get excited about every day is that the kind of impact Microsoft had had on people's life, especially Office, where I used to work and it was quite inspiring, to be honest. And you could meet everyday people who were using this. One fine day, I thought, Why shouldn't I do something which is more revolutionary than incremental? Because while we were solving some very great problems at Microsoft, then I could see back home I've now been outside for some time, five, six years that there were bigger problems to be solved. And I think it was that was the initial thought. And I'll tell you why. This kind of links back to Watch card backscut. So that was the initial thought. And then when I came to India, I kind of hustled tried different things. But the idea at the core, which was sitting in my head, is that I want to do something revolutionary, whether I do it with someone or I do it myself. But I wanted to do something in India, and I wanted to do something which was not incremental. Those are the two things. And the third thing in my mind was I wanted to do something with Tech because I used to enjoy that piece. So somewhere in the initial one or two years, when I tried a few things and started getting to a few like minded people who could kind of connect on that whole let's solve some big problems kind of attitude, I came across this problem of vision. And it was sometimes reading helps a lot. You're not reading to find the next business idea, but you're reading. Right? And when you read, or even when you read, like, somebody could be listening to this podcast, and through that, some thought may emerge for somebody.
+
+Speaker B (00:04:30 -- 00:04:31):
+Absolutely.
+
+Speaker A (00:04:31 -- 00:05:05):
+So this vision was like, a big problem. I read somewhere that India is the blind capital, and 75% people in India who need specs are not wearing specs. So it kind of triggered that, wow, why is nobody solving it? And I think I was at an age at that time where things were not as rational and logical as, oh, let's look at the market size, see whether there's a business. It was always like, okay, let's try and do that's. How Lenscart was born. It was a team of actually, it was the garage of where I'm sitting and speaking right now.
+
+Speaker B (00:05:05 -- 00:05:06):
+Oh, is it okay?
+
+Speaker A (00:05:06 -- 00:05:09):
+I live about 100 meters away from here. This is my parents house.
+
+Speaker B (00:05:09 -- 00:05:09):
+Okay.
+
+Speaker A (00:05:10 -- 00:05:17):
+And we were in a garage right here, like, maybe a few meters below where I'm sitting right now.
+
+Speaker B (00:05:17 -- 00:05:17):
+That's lovely.
+
+Speaker A (00:05:17 -- 00:06:47):
+And it was like 14 of us in a basement working with different ideas. Almost everybody was, like, just fresh out of college or was interning. And we said, okay, let's solve this problem. And I think so that was the genesis of it, right? We were so obsessed about doing something transformative, and now we said, okay, let's give vision to 50% of the India. I still remember those early days on early lines. And somewhere, as we started that journey, venture capitalism happened where somebody reached out to us, because I had not no experience in raising money, nor that was on the cards anywhere at any point in time for, you know, because of destiny and our good know chirate former IDG reached out. ECM venkatesh called us and said, what are you guys up to? I think e commerce was hot that day, very hot. Yeah, we said, okay, and they said, do you have a business plan? But we did not have one. But we said, we can prepare one. And that's how it all started. And one thing led to the other. We signed an investment in literally a week. We didn't really negotiate that much. We have already been doing this for two years. We know it's hard. That's how it was. And then very soon after raising investment, it was all this tam and market size, and let's see if we can build an online titan kind of conversations happen.
+
+Speaker B (00:06:47 -- 00:06:47):
+Understood.
+
+Speaker A (00:06:47 -- 00:06:57):
+And in our innocence, again, we were like, okay, let's keep doing let's okay, open watches, bags, jewelry to ask that question, because now we were in a different race.
+
+Speaker B (00:06:57 -- 00:06:58):
+Correct.
+
+Speaker A (00:06:58 -- 00:07:09):
+The race of building a large business, build a large business, GMV, revenue, next fundraise, all of that. And then we raised a second round. Also with Ronnie Screwwala was a second.
+
+Speaker B (00:07:09 -- 00:07:10):
+I remember.
+
+Speaker A (00:07:10 -- 00:09:01):
+Yeah, he had just started Unilazer, and he visited our factory come office in Oklahoma, where we were running eyewear, watches, bags, jewelry. And then almost one year into both Ronnie and TCM being partners, I was sitting at Ronie's house on a Sunday, and he was just questioning me. Ronnie was asking, what do I want to do? And I think somewhere I said that I want to transform and give glasses to these people who don't have it and give glasses to 50% of India. So I think that conversation kind of was not a work conversation. We were not sitting with the paper or a diary. I still remember we were sitting in a corner where there was sea breeze coming in Ronnie's sea facing house, and we were casually talking. And from that emerged that, if this is what I want to do, ronnie said, then why are you doing everything else? And at that time, Karthik, we were like, ten crores a month in revenue, and eight crows used to come from these watches, bags, jewelry, because these were expensive products. Glasses were not so expensive. And we had a very large you can imagine, 70% of our team was doing something else, and 30% was doing glasses. And I think in the conversation also came that Ronnie was asking, where do you spend time? And I was telling him, I spend 80% of my time on doing lens card, and the rest I've hired leaders to do. So, yeah, I think in that moment, Ronnie told me, if you were to do lens card, then I will give you more money. And in a way that you don't have to go out in the market and raise money and we'll keep it a fair valuation, et cetera. And my only condition is I am the only one who should be putting. Yeah. And I think I thought about it, went back to Delhi, slept over it and I kind of took a decision yeah, that's what I want to do. Right? That's where I left the thesis, seemed.
+
+Speaker B (00:09:01 -- 00:09:04):
+To have come from there, so went back to the roots.
+
+Speaker A (00:09:04 -- 00:10:01):
+I was not into entrepreneurship because I felt that this is more monetarily better or anything. I was doing it pure out of a very simple emotion. So I kind of took that call and then TCM said, Ronnie can't do it alone and I need to be part of it. So they both kind of came along and we agreed that screw the ten crore of revenue, let that vision stick. And I think from 810 crore we went to two crores and it wasn't like we could not raise money at ten crore we could have. It wasn't like we did it because there was no money, we did it purely because of the vision. So I think it's sometimes important to have that thought clarity and I think that has stuck with us for now. It was a good learning early on. It has stuck with us after we even raised huge amounts of capital, which we at some point didn't even know what to do with. We stuck to the core and never really did anything else. We wanted to transform.
+
+Speaker B (00:10:01 -- 00:10:13):
+It's amazing. Yeah, I've let you go on because it's a super important lesson. We say it in a different way internally. We talk about the pathological obsession of a founder to solve a particular problem.
+
+Speaker A (00:10:13 -- 00:10:14):
+Right?
+
+Speaker B (00:10:14 -- 00:11:37):
+And I think, yes, India sometimes feels like a small market and you feel like you have to diversify once you reach a certain scale. But in the early years, in the early part of the journey, if that obsession is not driving why you wanted to build something large in the first place then even why bother? Right? As you said, it's entrepreneurship of the was around pesa bante yes. Whereas in the if you're not thinking about or even more so relevant in the current era, that's the only thing that sustains you somehow over like a decade or two. There is no compounding of anything else other than obsession around wanting to build something super large, super important to you personally. We've always wondered there has been an attempt in most markets now like Wobbi Parker and Own days and I know now you own a big chunk of that business. There have been attempts to start these independent eyewear brands and chains. What do you think has made sort of lenscart become one of the best examples of this globally in terms of starting from scratch with an online model and winning big, in terms of even upsetting the legacy sort of offline players versus seeing far more examples of this, both either in India or globally, for that matter.
+
+Speaker A (00:11:37 -- 00:13:39):
+Only two things, right? I would say I think one is customer obsession, and truly in every essence of it, and obsessing about customers all the time, thinking about them, meeting them, being objective, willing to adapt, willing to change, being able to listen to the tough ones, despite you maybe feeling that you are building, I don't know, Mercedes. But when a customer tells me, no, you're not building a Mercedes, you're probably building a know. So really being honest to you know, there was a point in that. You know, a lot of investors that came on, they used to ask me, piyush, do you know what is the revenue of Bobby Parker? Or do you know what is their business model? And people used to ask me, okay, Titan, how are your numbers compared to Titan? And I kind of felt stupid for a long time. We were so engrossed in doing what we were doing. Everybody may think that we were checking out what others are doing. We were not. It was like, okay, we start early, we end late. There is so much to be done. You get it done, there's hardly time to even take a break. But it was obsession of a very different kind. It's like, okay, maybe there is a COVID happening and the world is falling apart, but we are worrying about whether the customer got their glasses. It wasn't by design, but it was driving the whole thing. And I think that it kind of works always that you keep going back, because we were never I'll give you some anecdotal examples of please. We started opening stores, and a lot of people today ask me, you were the first person to start Omnichannel, correct? I never started omnichannel. I didn't even know the word omni. All we knew is that there were customers I was talking to, and they used to come on the website. And while everybody was trying to figure out how to get more people on their website, I wanted to understand why people who are coming to our website not buying. And they used to tell me that we want to try.
+
+Speaker B (00:13:39 -- 00:13:40):
+Yes.
+
+Speaker A (00:13:40 -- 00:15:20):
+So we said, okay, we'll send stuff to your house and get you try. And then they said, we want an itest, so that okay, we'll do an itest at your house. And even then, it was going to a certain extent. And then I spoke to them and they said, boss, we don't like people coming to a house. Some of them, some of them are okay, and we want to go. But investors would say, oh, the home model is very exciting, and this is truly uberization and all, but these people are saying, I like to go in a store. So I said, okay, I'll open a store. That's how it started, right? And then we felt okay, why keep inventory in the store? Because these guys just want to try in the store so we can still deliver. It like an ecommerce order. So I think if we can go back to the first principles that kind of innocent and thinking where you are not clouded by what is cool and sexy and what will get you the next round of funding and the buzwords and now the buzword is AI. So I think you need to cut all of that and say what's my customer saying. And the second thing I would say is people, right. 1112 years back I think I was listening to something from Sanjeev Bikchandani and he said that for people to build something large they need to share, right. And they need to get the right people. So Lens Card would not be what it is if there were not people who were joining the workforce and amongst every people who would join the workforce I would kind of very early spot on or get a feeling that I need this person to be there with me for long term, right? Because this person is changing the game and I think that joining those people to the group and pretty much all of them who I wanted to join have stayed on.
+
+Speaker B (00:15:20 -- 00:15:20):
+Amazing.
+
+Speaker A (00:15:20 -- 00:15:48):
+And while the world will again took a noise okay, what is attrition? What is this? And startups? It doesn't matter. What matters is that are you expanding that core group of people who can because you need that handful of people but you can't do it alone, right? And I think that I think that obsession over saying that I need to do this with you otherwise I don't know, this will not happen, this vision will fall apart without you kind of thing.
+
+Speaker B (00:15:48 -- 00:16:38):
+No, these are awesome examples, thanks for sharing. And actually you've kind of preempted some of my questions in the third section which was around how you compound growth of everything, right. The customer base in terms of trust and loyalty of organizations and team building and each of the points that you raised are pointing already or giving me answers to that section where you're saying this is what you always focused on. And last one more question then we'll move to the Indian customer and the Indian market around D to C brands and how you've been one of the pioneers. You're my favorite example when I cite to various investors, global investors on the macro level or mylps though we are not an investor in you, we do talk about the potential of the market using the Lens Card story. So I'll come to that in a minute.
+
+Speaker A (00:16:38 -- 00:16:41):
+A couple of things I think going.
+
+Speaker B (00:16:41 -- 00:17:28):
+Back to your personal journey, some things we know that these things don't scale but we yet have to do them and they're not things that necessarily compound in the early stages of the startup. Are there good examples of things that you've had to do, where they counter to what you just said. This could have been COVID examples, it could have been prior to that. So that you're balancing sort of short term objectives with long term sort of orientation of building a sort of legendary, profitable company. Just curious if you have good examples of this, because people founders always grapple with this. I need to get stuff solved. Let me focus on all this other stuff later. It hurts the business. I'm sure every founder goes through it. So if you can relate any examples.
+
+Speaker A (00:17:28 -- 00:19:48):
+I mean, you got to get the car moving and while you convert it into something else. And I think it's that oscillation between short term midterm and long term is very important. At the back of your head, I kind of have started to know that this is something that I'm doing it for now, but I know I don't want to be doing it for very long term. And that acceptance is there. Right. And with that acceptance, I am even till date, doing a lot of things which I don't think I should be doing, but that I know that this is going to change. I have to change it in the future. And there are many of these things, like even getting salary to people on the first of every month. Right. You have to do it ethically. You got to do it. And for that, if you need to do some overtime and get stuff done, yes, you have to do it. But at the same time, you need to balance. There are innumerable things. It could be setting up a Gmail account for employees, or it could be finding an office space, or it could be searching on LinkedIn for the next person who's going to join you because you're not able to explain it to a recruiter what you're really looking for. You can't really sum this up or going to a social event to find people. So I think when shit hits the wall, your orders are not delivering. So you need to maybe take a few specs and start making them and start shipping them yourself. You need to do all of that. But one thing you need to balance with all of this is you need to start finding people who can take over these jobs. And because you have kind of done it, you have a much better understanding and you have a much better empathy what that person needs to be like for them to be able to do this job. Even today, right. There are things I am doing which some people would come and say, you should not be doing it at this stage. And I'm like, yeah, I know, I realize that, but I have to do it at this stage. But I know in future we won't be doing it this way. I have even kind of figured out who should be allowed to car park in the office because there are only limited parks in offices, right? You know what I mean? Somebody outsiders say, why is the CEO doing it? Because there's no one else to do it right now. We don't have an HR operation function. So you got to do it while.
+
+Speaker B (00:19:48 -- 00:20:17):
+You built with extreme focus. And from what I'm hearing from the story, this was pardoned or excused for a long time in the Indian ecosystem, growth at the cost of anything and capital was assumed that it'll come. When did that thought process sink in at Lenscart and started reorienting the company or orienting the company to saying, hey, we need to survive for 10, 20, 30 years? These are fundamental to the business and cannot be ignored anymore.
+
+Speaker A (00:20:17 -- 00:23:30):
+So firstly, we were very clear as founders, as the core team, that why are we doing what we are doing? We were doing it to create something really institutional. It was very clear the motivations, right? It wasn't some of the decisions we know. And I used to read this book called High Performance Entrepreneur by Subrato Bachi, and he said, the difference between a company and an organization and an institution. We were very clear that we wanted to create an institution which is not short term, and it needs to be really long term and sustainable. That was the question you kind of start looking at. We always used to study what Maruti has been able to do. And then if we found Chirathi and they knew Manish Choksi, and we said, can I get a meeting with Manish and understand how they built paints? And then when TPG came in, there was manish Chokani. And I remember we were sitting with him, and I asked Manish that, you've been in this journey for so long. And I remember having a conversation, what Maruti has done in India, we want the Maruti brought the comfort of a four wheeler to a lot of Indians. We want to do that. And in that conversation, that's kind of coming out clearly, then if we want to do that, then we need to think long term. And we also need to ensure that at least at a unit level, whatever we are doing, we should be doing it in a sustainable way at every unit. It could be hiring people in terms of sustainability, it shouldn't be like, okay, let's hire people. Forget about tomorrow, what will happen? Or it could be like, okay, what should be the margin I should be making on this product for it to be sustainable? It's not like, okay, let's sell it for loss today, and in future it will be all, okay. Or it could be thinking about costs of where you should be operating. We were operating in Faridabad for the longest time, right? For over seven, eight years. And everyone, when they looked at our visiting card, they say, oh, Faridabad. I would say early on, that whole institution building. And because even people used to ask that, okay, what is your plan? You want to sell this company? Start another. That's not what we want to do. So from that, the pieces were already in place. And then at some point when we said, okay, we always used to question, why is it not converging towards profitability if all the pieces are in place? And despite all the pieces being in place, I can tell you sometimes you don't hit the profitability. And I have always kind of touched it and then not get there and touched it and kind of not get there. And till we started realizing that for it to happen, it just requires a little bit more discipline. We were like 80% there. We just needed a little bit 20% more conversations around it. And looking at when you're reviewing your weekly numbers, can you just okay, we would only review customer. Can we also review some of the other bits? It started happening kind of automatically. I won't obsess about it. I think obsessing about revenue and obsessing about profitability is dangerous. Obsessing about customers is what I would always do. But at the same time, I would want to build a discipline that, okay, I am aware what I am doing, and I'm doing it to make it sustainable.
+
+Speaker B (00:23:30 -- 00:23:35):
+By the way, I'm obviously wearing Lens card. I couldn't be wearing anything else.
+
+Speaker A (00:23:35 -- 00:23:35):
+Thank you.
+
+Speaker B (00:23:35 -- 00:25:21):
+So basically avoided wearing reading glasses for maybe the better part of four or five years as I turned 40, and then realized that it's inevitable. But kind of going back to the example of your customer, I think the hesitation was always, I need to go to an optometrist. I have to go and check my eyes out. And so then I started seeing Lenscart stores pop up, and so the motivation to walk in became higher. I didn't know at that juncture what the store experience was like and how inventory works. I guessed a lot of what you were doing intuitively. I mean, as a VC, I would say that was the right way to run it. I just loved the fact that everything was as per my guesstimate when I walked in first into your Pedder Road store. And since then, for the last five years, I've only bought Lenscart, and I probably rotate two to three pairs every year because I either lose them, break them, whatever, scratch them, and pretty much live off them today. So I'm a very happy customer, and that's why I said I speak the customer experience to people who want to hear the India story. Even though I'm not an investor, I speak about it as if I were one, because I do go through the customer experience. But tell me, you did touch upon this one anecdote, but given where you started from, your vision, how do you think this eyewear market or this sense of people recognizing that they need to pay more attention to their eyes and have you made this fundamentally easier? Have you expanded the market as much as you thought you would? Or are you slowly nudging away at unorganized offline share that existed before you came in? What do you think you've done as.
+
+Speaker A (00:25:21 -- 00:26:26):
+Lenscart in the market? A bit of both, but largely market creation, I would say. We kind of were very firm view. Again, very, very long term. We could see that two things we were seeing that a myopia is growing. I remember I once visited my sister in Mumbai. She said that I have to now watch television closer to where I used to, but I would not get my eyes checked kind of thing. Right. So it was becoming clearer to me that people are coming closer to the TV, but they're not getting their eyes checked. So, fundamentally, we have people who need glasses, but they are not getting their eyes checked. And that we established very clearly. And the problem is not about money, problem is not about rural. Problem is really in our houses. So we have to create an ecosystem where we can do ITests. We do 50 lakh ITests a month now. Karthik amazing. I think we kind of said very early on that we will do one crore itest a month and we hopefully should get there next year.
+
+Speaker B (00:26:26 -- 00:26:26):
+Wonderful.
+
+Speaker A (00:26:27 -- 00:26:43):
+And then we can say ten crores, et cetera. So we knew that we need more people to do itest, because if they do itest, they will discover today about 60% of ITests that happen at Lenscart are people who have never got their eyes tested before. Amazing. Yeah.
+
+Speaker B (00:26:43 -- 00:26:55):
+This used to be, by the way, 60% is a remarkable number. It used to be the number that Budget airlines used to cite in 2005. Six. As the number of people who took a flight every day would never been on a flight.
+
+Speaker A (00:26:55 -- 00:26:55):
+Yes.
+
+Speaker B (00:26:56 -- 00:26:59):
+How crazy market expansion can be when it starts happening.
+
+Speaker A (00:26:59 -- 00:27:25):
+Yes. So that was one underlying thing that, yes, there are people who need glasses, they don't get their eyes tested. So let's open up the platform, democratize it, make it super simple. And if you know your Lens cards don't, nobody hopefully tells you that you have to buy from us to be able to get your eyes tested. We took it and that is why we continued the home service, because we knew we were reaching more people. So that was one. And second, I'm a big fan of Uniqlo.
+
+Speaker B (00:27:25 -- 00:27:30):
+Right, yeah. So am I, by the way. Every trip overseas, something gets bought.
+
+Speaker A (00:27:30 -- 00:28:30):
+Yeah. And now it's in India, so it's easier. And I kind of felt that, look, what is happening to the world now? There is so much innovation happening, people are buying. And I was talking to somebody and he said, these are my slow running shoes. And in these conversations I was speaking that people are talking about, not shoes, not four shoes. There's always slow running. Forget about. Running. Earlier, the conversation was sports shoes. Then it said running shoes and walking shoes. Now it's long run marathon running shoe and a fast paced running shoe. So what was becoming clearer is that at some point in the future this has to happen to eyewear people will if we give them products which will improve their quality of life. That is where that part you said maybe we are taking either taking Unorganized to organize or telling people, okay, why own one? Why not own five? That's right. That number which used to be one glasses every two years is expanding to four, five, six glasses every two years.
+
+Speaker B (00:28:30 -- 00:28:41):
+From both personal experience, I can see my wife go through this. So, yeah, you're right. Once you hit 40s, essentially the market suddenly opens up like crazy. Privately, all of us are going, we.
+
+Speaker A (00:28:41 -- 00:28:52):
+Are doing it now in villages. Karthik, which was again part of something transformation I personally wanted to bring. Now in Rajasthan, we would have some 500 women scanning people's eyes in villages.
+
+Speaker B (00:28:53 -- 00:28:54):
+Amazing, right?
+
+Speaker A (00:28:54 -- 00:28:57):
+And the problem is huge, right? The problem is very huge.
+
+Speaker B (00:28:57 -- 00:29:00):
+I can imagine. Yeah. They've never been exposed to this care itself.
+
+Speaker A (00:29:00 -- 00:29:01):
+Yes.
+
+Speaker B (00:29:01 -- 00:29:38):
+And so the choice of I'm sure it's not either or, it's both, but essentially you're committed enough to this segment clearly that you're going down to segments that could never access this product. And you're also seemingly going overseas. You're buying into other sort of brands and the regions. Where do you see this journey going? I mean, is it in these two directions equally? And is this enough to sustain you for the next decade? Is there a big difference between how you viewed the market in the first decade and the second decade is where I was actually coming.
+
+Speaker A (00:29:38 -- 00:31:56):
+I don't know if I viewed the market in any way, but I did kind of only for the first decade. It was all about, yes, there are people who need glasses and we want to give them glasses, so let's make awareness and access and affordability were the only three things. The three A's, make people aware, give them access to vision care and make it affordable. The only other thing which I would have added in the second decade is the piece about let's give them so much greatness in improving their quality of life. What we tell people is we are 20 years behind in Iva as compared to apparel, shoes and every other lifestyle category. Let's bridge that difference. Let's get people what they truly deserve in that area. And we kind of sum it as the first ten years are only about letting people do more. Which means if you can't even see, you can't do. And the next ten years is also about letting people be more. So combine the do more and be more so that's how I'm looking at it. And on the international part, I think this problem of myopia is pretty big in southeast Asia the latest. I was reading an article in The Economist which said 80% people are myopic now in Southeast Asia. And when I think of the next ten years and not two, three years alone and I see the kind of transformation that we are able to bring in India and because we want to still dream bigger, we felt that, let's make attempts and see can we solve this problem for a larger set of people in India, southeast Asia, Middle East? And that was really the thought process. And so we are very early in that journey, when we started doing some experiments, we realized the same problem of people not getting ice tested, people not getting enough access, people not getting awareness and affordability are very similar. As much as you may feel that these countries have a lot of money, but these countries also have a lot of cost if they have a lot of money. And they're all struggling when it comes to this and they want to avoid to the extent that they can avoid getting their eyes tested. So we kind of found those patterns. So we started investing in it with a ten year view. Awesome.
+
+Speaker B (00:31:56 -- 00:31:59):
+And then two questions on market before.
+
+Speaker A (00:31:59 -- 00:32:01):
+We get to compounding.
+
+Speaker B (00:32:02 -- 00:32:05):
+You're building this massive facility in Rajasthan, is that you?
+
+Speaker A (00:32:05 -- 00:32:06):
+That's true.
+
+Speaker B (00:32:06 -- 00:33:33):
+So I think historically, India, when Lenscard was in its early years, perceptually, it felt like your manufacturing bases were overseas. I think there's this incredible confidence now, both as a country and specifically with Lenscard to say that we can service and build world class products in India. So from a manufacturing trend, do you see that as like the future of Lenscart where all of your demand globally gets serviced from this megafactory in Rajasthan? And second question maybe connected to it is how much is technology on the front end? This is the back end changing to accelerate and ease pace of adoption. So my anecdote on that, by the way, is the last set of Lens cart. Last pair that I bought was bought while sitting on a three hour drive from the airport to a game park with your app, testing everything and then showing it to my wife and kid at the backseat and basically getting their approvals on which look made sense. And so it is fantastic, right? Because I haven't gone to a store in two years now because the last pair was bought online. So people, Generative, AI, AR, VR, all of this other nonsensical stuff that, as you said, is getting woven into every narrative. But from your perspective, it's about vision. So I guess it's relevant. So where do you see these two trend lines, manufacturing and AI VR, AR playing a role in Lenscards?
+
+Speaker A (00:33:33 -- 00:38:43):
+To be honest, Karthik, our decision to build this massive factory in Rajasthan, and we hope to build many more didn't come because we felt that India was ready for manufacturing. And it's the next cool thing to do, just like omnichannel. And I know it's kind of happening at the same time now, where people are realizing it. We kind of did it because when Geo happened and we said, look, why was this company able to grow that much so quickly and able to make an it? Because we kind of drive inspiration from the fact that what Geo did, we want to give glasses to 50% India. And Geo came and kind of did it so quickly, and we were like feeling a little bit left behind. So we said, okay, they took many years to lay the optic fiber and then they just came and did it in two years. So they kind of put in the input. So we said, okay, we want to serve a few hundred million people in India. Then do we even have the supply chain for it? Because it kind of keeps becoming the bottleneck. We have more people in demand and we are not able to serve them. So we're trying to manage and we're always in this struggle how to and then the customer experience always kind of goes for a toss for that little while and the dependency. And we really want to make it more affordable for people and capture that. So we said, okay, if we are so confident about doing this, so why not take a bold bet? Let's put $100 million into building a factory which can serve 50 million people a year, because if you want to serve 2300 million, then it would require let's make a factory to serve 50 million, and then we'll make another one to serve hundred and make another one to serve another 200. So by the end of it, we are serving 350,000,000 people, and 700 million people in India need glasses. So that's how we'll get to 50%, right? Kind of math amazing. We were thinking in our heads, when we make that bet, we again took inspiration from what Asian paints and all have done in India. And what we are realizing now is it is quite a good environment to do so. And you can bring a lot of technology, really think world class. For what it's worth, India is a great place to do manufacturing because if you want to do something which requires engineering and technology, we have that. We may not be totally there in terms of infrastructure, if you compare Apple to Apple from some of the other parts of the world, but we will get there. But what we have is ability to combine engineering and mines in manufacturing with that which you don't see in every part of the world with the same level of availability of talent. So, yeah, you can do a lot of creative manufacturing in India, which is what we need, because we have so many constraints of price, cost, logistics. It's not as streamlined. So when you work with that constraints in manufacturing and the dust environment that we have. You become stronger by the day in terms of technology and front end and AI. So you asked earlier on this question there are parts of the job which you are doing and you feel like you don't need to do it. We always kind of felt that nobody's been able to crack how to sell glasses online in a big way. And while we were doing all of this, we knew that at some point, just like shoes and lifestyle and apparel, people would come here and we are not in a rush to do anything. Nothing needs to be done tomorrow. So we need to start investing here. And as we start generating profits, we wanted to start investing. So we really invested. We are investing in AR. We knew that the next big milestone is when people can scan their eyes on mobile phone because it's a deterrent to still go to a facility and have somebody train and AI, et cetera. So while generative AI is really a good welcome, we kind of said that as we generate profits, there are two, three areas where we will continuously invest back our profits, a certain portion of our profits and with a long term faith, not necessarily. One was technology, second is data and third was people really upping the bar on people. Like if you find great people and talent and raise the bar, you bring them into the ecosystem. Got it? And because it's like a discipline reinvestment of profits, we are not really disturbing and doing it. And you can say, okay, if I'm making 600 crores a year, I want to put 20% of this profits reback into this. That's all it takes, right? And if I do it over the next ten years repeatedly. So I think that's what we are doing. We didn't win some of these battles, to be honest. When an engineer comes out of IIT or know their first preference to work is an Amazon or a Google or a Facebook, we said that they have to want to work at lenscart want to work not by paying them shitloads of money to do it because we not buy them, but they want to work. It all starts with talent and those talent wanting to so that's the focus I would say is to really build talent which can then start doing and solving these problems for the long term.
+
+Speaker B (00:38:43 -- 00:40:16):
+Amazing to hear all this and actually there's very little left to cover on compounding because piyush from the last 40 minutes essentially you've given phenomenal examples and conviction on what builds a great consumer brand, what drives that kind of loyalty, adoption, trust, literally decades. And this is a lifelong sort of brand in terms of brand experience for even the end customer right eyesight, unfortunately for most people, is a one way street. If you require the product, you require it for a long time. The second is of course how do you think around compounding at the scale impossible to do it without building. Like a defining culture that looks for quality, excellence, aspirationally to be one of the best companies neck to neck with any sort of big MNC out there. And I think you've expounded enough. What drove you to build in that fashion? All first principles thinking has been fantastic. Third is this balance around delicate balance around profitability and growth. So never endanger the company, but basically grow knowing that you can get profitable if you have to, but basically investing in whether it's technology or people or other areas. So I think these are the ingredients per se. You've touched upon all of them. Just to recap each one of them, maybe one or two things that you can maybe give as tips for younger founders.
+
+Speaker A (00:40:16 -- 00:42:27):
+I just want to add one thing on compounding, right? I think yes please. After one core thing which is very I think above all of it, above all of that I spoke about customer obsession, team obsession, thinking. Investing in the core I think is to compound is culture. A lot of people say that a lot of D, two C companies don't cross beyond 100 crores and this is something I keep hearing from the market. But there is another thing. A lot of large companies don't cross maybe seven 8000 crores, a billion dollar let's say, or maybe don't cross maybe three 4000 crores. A lot of people you will see stuck at that two and a half 3000 crore number. I think just in terms of when revenue is not of significance, I'm talking about size. I think at least I can tell you from moving from a mid size company that we are to a really large impactful, companies that have created very significant impact like the Maruti's and the Asian paints or globally Amazon, Netflix and Google etc. It will boil down to culture, talent. How are you executing? Because you are not executing. It is the machine that is executing and you need to know what is the machine that you're building. I don't want to use the word machine in the sense that it is machine, but it is a self running ecosystem that's right. That needs to run on its own. Only then you can compound at that rate, otherwise you won't be able to compound. You may be able to incrementally do because now your compounding is of a larger base and on a larger base compounding at 30 40% a year is not easy. So they're just focusing a lot on how are we executing. The clarity of thought, leadership, ways of working, being very clear how will we take decisions every day? Because now you're not taking decisions. Somebody sitting in some other geography is going to have to take decisions. What should their decision making framework should be like becomes so crucial. And investing in finance HR, which maybe you can still kind of underball in the first four or five years, and you cannot. It needs to be your strongest functions.
+
+Speaker B (00:42:27 -- 00:45:34):
+This is like a Godsend podcast. 45 minutes of punchy advice for most growth founders who essentially, like you said, are at a point where they have to make this choice on whether they truly believe in the compounding story for which they have to make these investments in people, in finance, in culture. I think you get a second shot at recalibrating it. You don't get a third shot is my take. If you can do this in the first six to nine months, fantastic. You're building legendary companies. A lot of founders don't necessarily get it, or they're too young to know this, or they've not worked long enough to know this. Then, as you said, maybe you get a second shot. If luck has played its role in getting you the capital, getting you the initial solid team. You've built broadly with first principles, but you haven't really overthought it, great. Then you get to the five, six year, eight year point, and then you get another shot to say, is this it? Are you going to be an incremental company from here? Are you going to become a sort of path breaking the equivalent of, I always dream about this future Nasdaq index equivalent that we will build in India? And I always wonder who will be those 30, 40 companies that we look to? And if you want to have a shot at being one of those companies, then all these lessons that all the great guests on this podcast are giving, including you, are very essential. And so that's for the growth side. A little bit of a flashback. What are the tips for young founders? I mean, that's the top of the funnel, right? And these are all great lessons once you've reached a certain scale on all three aspects. So the first one, which is customer brand, compounding or obsession, I know you've spoken about it, but any one or two tips that they can copy, what should they be looking at as young D to C? Founders or young any founders, right. That's one. The second is on team culture, things that you could have done better or got right in the first two years. What can they do to get things right in the first two to three years? And the last part is this one assumes there'll be capital, but a lot of people, as we know, the funnel sharpens dramatically, right at series A, series B, et cetera. So how early do you need to build a sustenance muscle? Like, meaning if I don't get capital, can I survive? Right. Is that practical? Maybe not in a lot of businesses, but I think in at least half of the business it is possible. We are seeing late bloomers a lot in our portfolio, and you can be lucky. You may not be so capital investors because you need them to be able to compound to your glorious state in a record pace and time. Of course, the customer who drives your who's your biggest financier, in some sense, by buying your product and your team, which you can never get to if you can flash back to the first three, four years and give tips to founders on what they can keep their eye on, the ball on a few of these things that you got right or mistakes you made, which they shouldn't. Either way is fine, but they're learnings either way, firstly.
+
+Speaker A (00:45:34 -- 00:47:12):
+And it's have a lot of clarity of thought of what the impact that you want to create, right? Or have that clarity of thought. I'm doing this for this. At least you, if not, forget everybody else. You should be very clear why you're doing it, what you're doing and what is your motivation of doing what you're doing. And that could be different for different. I think that clarity of thought is very important. And then translating that clarity of thought to the rest of the people so that they are clear. What because sometimes not having that clarity and what some people say purpose because then you are in this world where everybody has a point of view. But only person who doesn't have a point of view is you. Right? And then you're kind of like a football moving from one direction to the other because somebody's saying, okay, you're a bike company. Somebody's saying no, you are an EV company. Somebody's saying, oh no, you're a battery company. Because that's what makes because you don't know what you want to be and what's motivating you. So I think that I think over about and then of course, I'm assuming everybody knows, customer obsession, team obsession, these are kind of known things. But having that is very important. You have to build something real and you have to know that the honeymoon ends, everything ends and all glory is going to be fleeting. And just because you raised your $2 million right now and now you're in the news and Et writes about you, don't assume that you have arrived in life. You know that for you, arrival is what you should know. What is arrival for you? It just lets you be at peace and not get carried away along with a lot of things. I don't know if that makes sense.
+
+Speaker B (00:47:12 -- 00:47:20):
+It's poignant and philosophical. And again, young founders should hear more of this absolute clarity.
+
+Speaker A (00:47:20 -- 00:47:42):
+And I think it's important. Why it's not philosophical is I think it's important to say things for you to make them happen. I know you could go and say I want to change the world and whatever, but if you don't even say it and you know that I want to do it, it won't happen. But at the same time, what happens is that you get all these VCs, you meet around people, somebody will say this, somebody will say this. If you don't know what your point of view is it becomes kind of difficult.
+
+Speaker B (00:47:43 -- 00:47:59):
+I had this question around how do you see I know you play a role on television as well, but broadly, I'm sure you meet hundreds of entrepreneurs. What do you look for in founders when you're making that intuitive? I know it's angel bet. It's an intuition.
+
+Speaker A (00:47:59 -- 00:48:02):
+Yeah. And sometimes you go wrong. You may feel that, no, of course.
+
+Speaker B (00:48:02 -- 00:48:07):
+We all go wrong. But what are you trying to gauge in that very short period of time around founders?
+
+Speaker A (00:48:07 -- 00:48:17):
+That clarity, to be honest. That clarity and desire to go make that change. And you may later get surprised sometimes that's not the motivation. Which is totally fine.
+
+Speaker B (00:48:17 -- 00:48:19):
+Yeah, you don't have enough time to judge it.
+
+Speaker A (00:48:19 -- 00:50:00):
+Yeah, you don't have enough time to judge it. But yes, I do think that having a clear mission purpose and it can change. I'm not saying it should not change is important to me. The second thing I would say is that after now, having invested in many of these companies and early stage founders, I think they focus a lot on just sales and marketing. For them, the only way to grow a business is marketing. Like, if you ask them what is one thing you need? I need to market. I think my product is good, everything is good. And I would just leave two thoughts with them. One is it's not just important to be good, it's important to be great. So one X, two X. Okay. Your product is good, you like it, people like it. Your packaging is good, people like it, you like it, it's okay. And now you need marketing to sell it. I have a different point of view for you. Make it great, make it ten X better. That reduces your need and desire and focus there. Marketing will happen when it will happen, these things. That's not what you need right now. Early stage, you avoid it till you can, but focus on making things so better. Ten x better. And ten X is like, I'm half the cost, but I'm ten X in quality. Right? And that is how you think about it. And the second is focus more on people. Like, I see every founder, early stage founder is like, how do I find people? I'm not able to pay salary. You have to be the recruiter. The only way you're going to progress forward three months from now or six months from now is finding people. Get some like minded people. Otherwise, how will even if you have a great idea, great proposition, great clarity, how do you change the future? So those are the two things I would leave with the lease agent.
+
+Speaker B (00:50:00 -- 00:50:46):
+Great advice. I think, like a delighted customer is far better marketing than anything. Any marketing dollar you can put, they sell the product far more than anything. Any marketing dollar will. And I think this people point, I first heard it in my early days as an investor from Naveen Tivari, I think, who told me that he was in the interview room for the first 400 or 500 employees that In Mobi ever had. Right. Same with Aditya Ghosh. When we interviewed him for some we had a founder session in the Pandemic and he said the same thing. I think for the first 500, 700 employees of Indigo, his core role was actually to be in every interview trying to judge whether this person had those values and can build long term because.
+
+Speaker A (00:50:46 -- 00:50:56):
+It'S kind of thing, right. If I'm doing Sale and I am doing marketing, I'm using my time judiciously. But if I'm interviewing, leave that job to HR or no.
+
+Speaker B (00:50:59 -- 00:51:13):
+It's a psychological barrier and I think it has to be crossed. We're just going to do a fun segment around these rapid response questions. We'll run through a handful of them and then we'll call it a day. What does wealth mean to you?
+
+Speaker A (00:51:14 -- 00:51:26):
+I think some people have it by destiny and I don't know why they have it. It's a question I always have it at the back of my head. But it has to be put to good use.
+
+Speaker B (00:51:26 -- 00:51:37):
+It's a great answer. I agree with the second part. Which Indian entrepreneur or business person has had most influence on your outlook on life, your career on building lenscart?
+
+Speaker A (00:51:37 -- 00:51:40):
+I think Ronnie in India. Yes. Super.
+
+Speaker B (00:51:41 -- 00:52:07):
+I think in those early days it's shaped a lot of that journey. So great to hear. And by the way, he was an investor in our first fund and for the limited amount of time that I've spent with him, he's a great business person. What motivates you given how much you've already built and scaled this business? I mean, what gets you out of bed in the morning to say that today will be better than yesterday?
+
+Speaker A (00:52:08 -- 00:52:19):
+I get out of bed earlier every year that passes by. That's fantastic too. It's the desire to build a global impact out of India.
+
+Speaker B (00:52:19 -- 00:52:30):
+We need more of those stories. So thanks Piyush for carrying the mantle. We're wishing you lot of luck. If you could meet one person from Indian history who did B and why?
+
+Speaker A (00:52:30 -- 00:52:31):
+Mahatma Gandhi, I guess.
+
+Speaker B (00:52:32 -- 00:52:34):
+Yeah, he's always an intriguing guy.
+
+Speaker A (00:52:34 -- 00:52:42):
+I think he kind of had his own view, very opposite of what everybody and carried it forward. So going back to that same element.
+
+Speaker B (00:52:43 -- 00:52:54):
+Of having a view, great reason for it. Any other startup that you wish you had founded that you really admire from the recent past last 1015 years?
+
+Speaker A (00:52:54 -- 00:53:07):
+I won't say I wished I would have found it, but I admire I think first cry is one of them. I think they're doing a good job in terms know again and happiness is.
+
+Speaker B (00:53:10 -- 00:53:10):
+In the moment.
+
+Speaker A (00:53:10 -- 00:53:11):
+Sir. Yeah.
+
+Speaker B (00:53:12 -- 00:53:22):
+Thanks, Biosh. I think this is perfect end to a fascinating full of insights kind of conversation. I think listeners will love it. Again, thanks for being super.
+
+Speaker A (00:53:22 -- 00:53:23):
+No, no, I enjoyed it. Yeah.
+
+Speaker B (00:53:23 -- 00:53:38):
+No, I'm glad. It's important that my guests enjoy. I think that brings out more sort of real takeaway take home advice and makes it more fun for our listeners. So, once again, thanks a lot for this time and for all your inputs.
+
+Speaker A (00:53:38 -- 00:53:45):
+Thanks, Karthi. Thanks for having me. It was lovely chatting. Thanks. One.
