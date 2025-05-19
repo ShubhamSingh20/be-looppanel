@@ -25,6 +25,7 @@ pip install -r requirements.txt
 3. Create a `.env` file in the root directory with the following variables:
 ```
 OPENAI_API_KEY=your_openai_api_key
+USE_MOCK_SEARCH=true  # setting true will utilize openai function calling
 ```
 See .env.example to check what env variables are to be exposed
 
