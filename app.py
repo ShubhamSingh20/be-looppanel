@@ -39,7 +39,7 @@ def get_chat_reply(project_id):
 def list_projects():
     try:
         projects = [
-            {"id": "1", "name": "Project 1"},
+            {"id": "1", "name": "Podcast Dummy Data"},
             {"id": "2", "name": "Project 2"},
             {"id": "3", "name": "Project 3"}
         ]
