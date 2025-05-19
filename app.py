@@ -32,7 +32,7 @@ def get_chat_reply(project_id):
         }), 200
         
     except Exception as e:
-
+        traceback.print_exc()
         return jsonify({"error": str(e)}), 500
 
 @app.route('/list_projects', methods=['GET'])

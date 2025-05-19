@@ -12,3 +12,5 @@ postgres_url = os.getenv("postgres_url")
 postgres_port = os.getenv("postgres_port")
 
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+
+USE_MOCK_SEARCH = os.getenv("USE_MOCK_SEARCH", "true").lower() == "true"

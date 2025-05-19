@@ -11,6 +11,9 @@ def get_embedding(text: str, model="text-embedding-ada-002"):
     )
     return response.data[0].embedding
 
+def get_openai_client():
+    return OpenAI(api_key=OPENAI_API_KEY)
+
 def read_file(file_path: str) -> str:
     with open(file_path, 'r') as file:
         return file.read()

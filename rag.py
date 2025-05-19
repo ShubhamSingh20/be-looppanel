@@ -1,8 +1,9 @@
 from db import PostgreSQL
+from config import USE_MOCK_SEARCH
 from utils import get_embedding, cosine_similarity
-from prompts import prompt_generate_rag_response
+from prompts import prompt_generate_rag_response, prompt_generate_rag_response_with_function_call
 
-def rag_get_response(project_id: int, query: str, previous_messages: list = None, top_k: int = 2, similarity_threshold: float = 0.9):
+def rag_get_response(project_id: int, query: str, previous_messages: list = None, top_k: int = 2, similarity_threshold: float = 0.8):
     db = PostgreSQL()
 
     chunks = db.select_many("""
@@ -40,7 +41,10 @@ def rag_get_response(project_id: int, query: str, previous_messages: list = None
         context += f"Document Name: {chunk['file_name']}\n"
         context += "==========\n\n"
 
-    response = prompt_generate_rag_response(context, query, previous_messages)
+    if USE_MOCK_SEARCH:
+        response = prompt_generate_rag_response_with_function_call(context, query, previous_messages)
+    else:
+        response = prompt_generate_rag_response(context, query, previous_messages)
     
     result = {
         "response": response,
